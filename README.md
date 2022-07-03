@@ -9,7 +9,7 @@ Hey Guys 👋, I'm M.Hassan Zaheer, An undergradute Computer Science student and
 
 ### Connect with me:
 
-<a href="https://bilalrehman08.medium.com/">
+<a href="#">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="[https://www.linkedin.com/in/mhassan-zaheer/]">
