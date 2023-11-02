@@ -1,7 +1,17 @@
-### Hey Guys 👋, I'm [M.Hassan Zaheer.!](https://www.linkedin.com/in/mhassan-zaheer/) 
+### 👋 Hey there, I'm [Muhammad Hassan Zaheer!](https://www.linkedin.com/in/mhassan-zaheer/)
 
 <br />
-Hey Guys 👋, I'm M.Hassan Zaheer, An undergradute Computer Science student 🙍🏽‍♂️ at PAF-KIET having skills and expertise in Python, Data Science and Flutter 💫. Currently I'm working as a Data Analyst at EY 💻👨‍💻
+
+## 📚 A lifelong learner on a journey through the world of data and technology. 🌍
+
+## 🎓 Pursuing a Master's in Data Science at Fast University, building on my Bachelor's degree in Computer Science from PAF-KIET. 🎯
+
+## 💡 Passionate about Python, Data Science, and Flutter, I'm all about crafting smart solutions to real-world challenges. 💫
+
+## 💼 Currently, I'm making waves as an Executive 1 (Data Analyst) in the Strategy and Transactions Department at EY. 📈
+
+## 🌐 Join me as I explore the ever-evolving landscape of data, share insights, and contribute to the fascinating world of technology. Let's connect and learn together! 🚀
+
 
   <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
