@@ -6,7 +6,7 @@
 🎓 Pursuing a Master's in Data Science at Fast University, building on my Bachelor's degree in Computer Science from PAF-KIET. 🎯 <br />
 💡 Passionate about Python, Data Science, and Flutter, I'm all about crafting smart solutions to real-world challenges. 💫 <br />
 💼 Currently, I'm making waves as an Executive 1 (Data Analyst) in the Strategy and Transactions Department at EY. 📈 <br />
-🌐 Join me as I explore the ever-evolving landscape of data, share insights, and contribute to the fascinating world of technology. Let's connect and learn together! 🚀
+🌐 Join me as I explore the ever-evolving landscape of data, share insights, and contribute to the fascinating world of technology.<br /><br /> Let's connect and learn together! 🚀 
 
 
   <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
